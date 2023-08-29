@@ -1,2 +1,3 @@
-# Express_MongoDB_Rest_API_Tutorial
-This is express &amp; mongodb rest api tutorial for contact management app
+# Node-MongoDb-Rest-Api-Authentication
+
+This is express & mongodb rest api authentication example end to end for contact management app
